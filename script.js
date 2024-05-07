@@ -64,7 +64,7 @@ getWeatherButton.onclick = () => {
   "id": 3163858,
   "name": "Zocca",
   "cod": 200
-}
+}  
 */
 
 function displayWeather({
