@@ -86,4 +86,5 @@ function displayWeather({
         <p>Sunrise: ${sunriseTime.getHours()}:${sunriseTime.getMinutes()}:${sunriseTime.getSeconds()}</p>
         <p>Sunset: ${sunsetTime.getHours()}:${sunsetTime.getMinutes()}:${sunsetTime.getSeconds()}</p>
     `;
+  weatherContainer.classList.add('weatherContainer');
 }
